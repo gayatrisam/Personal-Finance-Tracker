@@ -40,7 +40,11 @@ This is a Personal Finance Tracker application built using Python, Tkinter, SQLi
 5. Set a budget limit to get notified when expenses exceed the limit
 
 ## Screenshot
-![Finance Tracker Screenshot](screenshot.png)
+![Finance Tracker Screenshot]("C:\Users\Gayatri\OneDrive\Pictures\Screenshots\Screenshot 2025-02-08 222637.png")
+![Finance Tracker Screenshot]("C:\Users\Gayatri\OneDrive\Pictures\Screenshots\Screenshot 2025-02-08 222652.png")
+![Finance Tracker Screenshot]("C:\Users\Gayatri\OneDrive\Pictures\Screenshots\Screenshot 2025-02-08 222715.png")
+![Finance Tracker Screenshot]("C:\Users\Gayatri\OneDrive\Pictures\Screenshots\Screenshot 2025-02-08 222734.png")
+![Finance Tracker Screenshot]("C:\Users\Gayatri\OneDrive\Pictures\Screenshots\Screenshot 2025-02-08 222829.png")
 
 ## Project Structure
 ```
